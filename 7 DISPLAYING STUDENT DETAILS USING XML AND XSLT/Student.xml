@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Style.xsl"?>
+<student>
+<details>
+<name>Kavitha </name>
+<branch>IT</branch>
+<dob>1985</dob>
+<mark>200</mark>
+<grade>A</grade>
+</details>
+<details>
+<name>Sri</name>
+<branch>ECE</branch>
+<dob>2000</dob>
+<mark>120</mark>
+<grade>C</grade>
+</details>
+<details>
+<name>Kavya</name>
+<branch>EEE</branch>
+<dob>1985</dob>
+<mark>200</mark>
+<grade>S</grade>
+</details>
+</student>
